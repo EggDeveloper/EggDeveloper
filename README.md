@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EggDeveloper
 - 👀 I’m interested in programming 👨‍💻
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on null/nothing
-- 📫 How to reach me devnoobmail@gmail.com 📧
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: devnoobmail@gmail.com 📧
 
 <!---
 EggDeveloper/EggDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
