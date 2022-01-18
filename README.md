@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EggDeveloper
 - 👀 I’m interested in programming 👨‍💻
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: devnoobmail@gmail.com 📧
 
